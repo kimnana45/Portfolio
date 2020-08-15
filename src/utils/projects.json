@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "image": "TheClassicGenius.png",
+        "title": "The Classic Genius",
+        "description": "A research app to help users collect scholar resaerch articles from all over the world, and give user an option to enhance their study with classical music. Moreover, if the user enjoy what they are hearing, there are links to lead user to a music library with more information on the artist and song playing.",
+        "github": "https://github.com/Demetrio09/Project-1",
+        "deployment":"https://demetrio09.github.io/Project-1/"
+    },
+    {
+        "id": 2,
+        "image":"posttosold.png",
+        "title": "Post To Sold",
+        "description":"A website where users can post up old items for sale, like an online garage-sale! Users are able to create their own account, log in to post, view and sale stuff. This is an express, node, handlebars and mysql application.",
+        "github":"https://github.com/kimnana45/Project2",
+        "deployment": "https://pr0jectnum2.herokuapp.com/"
+    },
+    {
+        "id": 3,
+        "image":"employeeTracker.png",
+        "title": "Employee Tracker",
+        "description":"A command line application using Node and MySQL Database that allow users to view, add and delete different departments and employees, as well as modify information about specific employee. ",
+        "github":"https://github.com/kimnana45/employeeTracker",
+        "deployment": "N/A"
+    },
+    {
+        "id": 4,
+        "image":"burgerApp.png",
+        "title": "Eat-Da-Burger!",
+        "description":"A burger logger application with MySQL, Node, Express, Handlebars and a homemade ORM. Users are able to order the burger that they like, click on a button and have that burger switch over to a different category. All information is stored inside MySQL databse.",
+        "github":"https://github.com/kimnana45/burger",
+        "deployment": "https://vast-ridge-83982.herokuapp.com/"
+    },
+    {
+        "id": 5,
+        "image":"noteTaker.png",
+        "title": "Note Taker",
+        "description":"An application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.",
+        "github":"https://github.com/kimnana45/noteTaker",
+        "deployment": "https://immense-bastion-16529.herokuapp.com/"
+    },
+    {
+        "id": 6,
+        "image":"WeatherApp.png",
+        "title": "Weather App",
+        "description":"This application will give you weather forecast for any city in the world. Simply type in the name of the city in the search box to receive forecast for the current day and the week of. This application is especially useful when making travel plan.",
+        "github":"https://kimnana45.github.io/weather-app/",
+        "deployment": "https://github.com/kimnana45/weather-app"
+    }
+
+]
