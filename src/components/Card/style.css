@@ -1,0 +1,21 @@
+.card {
+    background-color: black;
+    border: solid blanchedalmond;
+    border-radius: 25px;
+}
+
+h5 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: greenyellow;
+}
+
+p {
+    font-family: 'Advent Pro', sans-serif;
+    color: palegreen;
+}
+
+a { 
+    text-decoration: none;
+    padding: 2vw;
+    font-family: 'Josefin Sans', sans-serif;
+}
