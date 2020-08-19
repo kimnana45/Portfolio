@@ -1,5 +1,4 @@
 import React from "react";
-import "./style.css";
 import BurgerApp from "../../assets/burgerApp.png";
 import EmployeeTracker from "../../assets/employeeTracker.png";
 import NoteTaker from "../../assets/noteTaker.png";
