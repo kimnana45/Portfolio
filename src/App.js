@@ -30,7 +30,7 @@ const App = () => {
           </Switch>
         </Wrapper>
         <Footer>
-          <p style={{ textAlign: "center" }}> © Kim Le </p>
+          <p style={{ textAlign: "center", fontSize: "25px" }}> © Kim Le </p>
         </Footer>
       </div>
     </Router>
