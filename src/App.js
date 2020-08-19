@@ -30,13 +30,7 @@ const App = () => {
           </Switch>
         </Wrapper>
         <Footer>
-        <div className="row">
-        <div className="col-sm-10">
-          <h2>Logic will get you from A to B.</h2>
-          <h3>Imagination will take you everywhere -Einstein</h3>
-        </div>
         <p style={{textAlign: "center"}}> © Kim Le </p>
-      </div>
           </Footer>
       </div>
     </Router>
