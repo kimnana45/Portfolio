@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.fc549ce8.chunk.css",
+    "main.js": "/Portfolio/static/js/main.ef845386.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.ef845386.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.88fabfc4.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.88fabfc4.js.map",
+    "static/js/2.aaccd3f6.chunk.js": "/Portfolio/static/js/2.aaccd3f6.chunk.js",
+    "static/js/2.aaccd3f6.chunk.js.map": "/Portfolio/static/js/2.aaccd3f6.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.20a425b4c0ab7fda50df272e097137da.js": "/Portfolio/precache-manifest.20a425b4c0ab7fda50df272e097137da.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.fc549ce8.chunk.css.map": "/Portfolio/static/css/main.fc549ce8.chunk.css.map",
+    "static/js/2.aaccd3f6.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.aaccd3f6.chunk.js.LICENSE.txt",
+    "static/media/IMG_E1205.png": "/Portfolio/static/media/IMG_E1205.f6625b3b.png",
+    "static/media/TheClassicGenius.png": "/Portfolio/static/media/TheClassicGenius.5012bdd1.png",
+    "static/media/WeatherApp.png": "/Portfolio/static/media/WeatherApp.f2499493.png",
+    "static/media/burgerApp.png": "/Portfolio/static/media/burgerApp.f25529e5.png",
+    "static/media/employeeTracker.png": "/Portfolio/static/media/employeeTracker.216b6162.png",
+    "static/media/noteTaker.png": "/Portfolio/static/media/noteTaker.6d472974.png",
+    "static/media/posttosold.png": "/Portfolio/static/media/posttosold.c1a0a38e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88fabfc4.js",
+    "static/js/2.aaccd3f6.chunk.js",
+    "static/css/main.fc549ce8.chunk.css",
+    "static/js/main.ef845386.chunk.js"
+  ]
+}
