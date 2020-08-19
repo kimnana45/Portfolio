@@ -43,12 +43,6 @@ const Contact = () => {
           </form>
         </div>
       </div>
-      <div className="row">
-        <div className="col-sm-10">
-          <h2>Logic will get you from A to B.</h2>
-          <h3>Imagination will take you everywhere -Einstein</h3>
-        </div>
-      </div>
       </div>
     )
 }
