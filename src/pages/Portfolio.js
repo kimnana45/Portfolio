@@ -46,7 +46,23 @@ class Portfolio extends Component {
                 </div>
                 <div className="row">
                     <CardDeck>
-                        {this.state.Projects.filter(item => item.id > 4)
+                        {this.state.Projects.filter(item => item.id > 4 && item.id <= 6)
+                            .map(project => (
+                                <Card 
+                                    key={project.id}
+                                    id={project.id}
+                                    title={project.title}
+                                    description={project.description}
+                                    github={project.github}
+                                    deployment={project.deployment}
+                                    image={project.image}
+                                />
+                        ))}
+                    </CardDeck>
+                </div>
+                <div className="row">
+                    <CardDeck>
+                        {this.state.Projects.filter(item => item.id > 6)
                             .map(project => (
                                 <Card 
                                     key={project.id}

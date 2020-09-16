@@ -17,11 +17,11 @@
     },
     {
         "id": 3,
-        "image":"employeeTracker",
-        "title": "Employee Tracker",
-        "description":"A command line application using Node and MySQL Database that allow users to view, add and delete different departments and employees, as well as modify information about specific employee. ",
-        "github":"https://github.com/kimnana45/employeeTracker",
-        "deployment": "N/A"
+        "image":"theTravelersCompass",
+        "title": "The Travelers Compass",
+        "description":"The Travelers Compass is a React application with connection to mongoose database that serve its purpose as place where a traveler or multiple travelers can join together to plan for their trip.",
+        "github":"https://github.com/kimnana45/The-Travelers-Compass",
+        "deployment": "https://gentle-ridge-35373.herokuapp.com/"
     },
     {
         "id": 4,
@@ -33,6 +33,22 @@
     },
     {
         "id": 5,
+        "image":"budget",
+        "title": "Budget Tracker",
+        "description":"A budget tracker application that can show user their spendings with a chart displaying funds added and subtracted overtime. Application has offline functionality that allow user to save their records in indexedDB and transfer the information over to app when it comes back online.",
+        "github":"https://github.com/kimnana45/Budget-Tracker",
+        "deployment": "https://rocky-wildwood-45473.herokuapp.com/"
+    },
+    {
+        "id": 6,
+        "image":"burgerApp",
+        "title": "Eat-Da-Burger!",
+        "description":"A burger logger application with MySQL, Node, Express, Handlebars and a homemade ORM. Users are able to order the burger that they like, click on a button and have that burger switch over to a different category. All information is stored inside MySQL databse.",
+        "github":"https://github.com/kimnana45/burger",
+        "deployment": "https://vast-ridge-83982.herokuapp.com/"
+    },
+    {
+        "id": 7,
         "image":"noteTaker",
         "title": "Note Taker",
         "description":"An application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.",
@@ -40,7 +56,7 @@
         "deployment": "https://immense-bastion-16529.herokuapp.com/"
     },
     {
-        "id": 6,
+        "id": 8,
         "image":"WeatherApp",
         "title": "Weather App",
         "description":"This application will give you weather forecast for any city in the world. Simply type in the name of the city in the search box to receive forecast for the current day and the week of. This application is especially useful when making travel plan.",

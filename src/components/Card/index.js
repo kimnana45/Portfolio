@@ -5,10 +5,12 @@ import NoteTaker from "../../assets/noteTaker.png";
 import PostToSold from "../../assets/posttosold.png";
 import TheClassicGenius from "../../assets/TheClassicGenius.png";
 import WeatherApp from "../../assets/WeatherApp.png";
+import Budget from "../../assets/budget.png";
+import TheTravelersCompass from "../../assets/theTravelersCompass.png";
 
 const Card = ({ id, title, description, github, deployment, image }) => {
     let projectID = id;
-    let projects = [BurgerApp, EmployeeTracker, NoteTaker, PostToSold, TheClassicGenius, WeatherApp];
+    let projects = [BurgerApp, EmployeeTracker, NoteTaker, PostToSold, TheClassicGenius, WeatherApp, Budget, TheTravelersCompass];
     let projectImage = projects.filter(project => project.includes(image));
 
     return (
