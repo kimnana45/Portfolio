@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import Resume from "../../src/assets/resume20PDF.pdf";
 
 const Contact = () => {
     return (
@@ -7,10 +7,22 @@ const Contact = () => {
         <div className="row">
         <div className="col-sm-6">
           <ul className="text-center" id="infoList">
-            <li>Email: <Link to="kimle.lek@gmail.com">kimle.lek@gmail.com</Link></li>
-            <li>Github: <Link to="https://github.com/kimnana45">https://github.com/kimnana45</Link></li>
-            <li>LinkedIn: <Link to="https://www.linkedin.com/in/kimle-lek/">https://www.linkedin.com/in/kimle-lek/</Link></li>
-            <li>Resume: <Link to="css/resume20.pdf">resume20PDF.pdf</Link></li>
+            <li>Email: <a href="kimle.lek@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            >kimle.lek@gmail.com</a></li>
+            <li>Github: <a href="https://github.com/kimnana45"
+            target="_blank"
+            rel="noopener noreferrer"
+            >https://github.com/kimnana45</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/kimle-lek/"
+            target="_blank"
+            rel="noopener noreferrer"
+            >https://www.linkedin.com/in/kimle-lek/</a></li>
+            <li>Resume: <a href={Resume} download
+            target="_blank"
+            rel="noopener noreferrer"
+            >resume20PDF.pdf</a></li>
             <li>Phone number: (407)399-5793</li>
           </ul>
         </div>
